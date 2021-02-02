@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "cs4880reactamplify1f20d1ab": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
